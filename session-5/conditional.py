@@ -58,7 +58,7 @@ else:
 
  #----------------------------------------------------------------------------------------
 
-amount = 1500
+amount = 100
 discount = 100
 # amount > 1100, then apply a discount of 100 rs
 # else don't apply discount
