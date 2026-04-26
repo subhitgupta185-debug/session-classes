@@ -12,3 +12,4 @@ df.index = ["a", "b", "c", "d" , "e", "f", "g", "h", "i"]  # Labels
 print(df.loc["a"])
 
 # Use loc use labels otherwise use index 
+
